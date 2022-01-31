@@ -1,3 +1,4 @@
+//sketching moving rectangles
 //initialize a counter variable
 var count1=0
 var count2=4
