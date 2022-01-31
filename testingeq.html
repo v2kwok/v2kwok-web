@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.dom.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.sound.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mappa-mundi/dist/mappa.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+
+  </head>
+  <body>
+    <script>
+
+      // Examples use USGS Earthquake API:
+      //   https://earthquake.usgs.gov/fdsnws/event/1/#methods
+      let earthquakes;
+      function preload() {
+        // Get the most recent earthquake in the database
+        let url = 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson';
+        earthquakes = loadJSON(url);
+        console.log(earthquakes)
+        console.log(Object.keys(earthquakes));
+      }
+
+      function setup() {
+        noLoop();
+      }
+
+      function draw() {
+        background(200);
+        // Get the magnitude and name of the earthquake out of the loaded JSON
+        let earthquakeMag = earthquakes.features[0].properties.mag;
+        let earthquakeName = earthquakes.features[0].properties.place;
+        ellipse(width / 2, height / 2, earthquakeMag * 10, earthquakeMag * 10);
+        textAlign(CENTER);
+        text(earthquakeName, 0, height - 30, width, 30);
+      }
+
+
+    
+    
+    </script>
+  </body>
+</html>
