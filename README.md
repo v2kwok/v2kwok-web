@@ -1,7 +1,7 @@
 ## Welcome to Github Pages
 
 ### Leaflet-ing UBC
-View the full screen map <a href="https://v2kwok.github.io/v2kwok-web/ubc_parking.html>here</a>!
+<p>View the full screen map <a href="https://v2kwok.github.io/v2kwok-web/ubc_parking.html>here</a>!</p>
 Click on the parking icons for parking information:
 <iframe src="https://v2kwok.github.io/v2kwok-web/ubc_parking.html" height="640" width="640"></iframe>
 
