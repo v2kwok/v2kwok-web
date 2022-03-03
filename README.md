@@ -1,7 +1,7 @@
 ## Welcome to Github Pages
 
 ### Leaflet-ing UBC
-Click on the parking icons for lot information:
+Click on the parking icons for parking information:
 <iframe src="https://v2kwok.github.io/v2kwok-web/ubc_parking.html" height="640" width="640"></iframe>
 
 ### Introducing Leaflet Exercise
