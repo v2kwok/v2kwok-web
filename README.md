@@ -3,6 +3,7 @@
 ### Leaflet-ing UBC
 Click on the parking icons for parking information:
 <iframe src="https://v2kwok.github.io/v2kwok-web/ubc_parking.html" height="640" width="640"></iframe>
+link to full screen map: https://v2kwok.github.io/v2kwok-web/ubc_parking.html
 
 ### Introducing Leaflet Exercise
 <iframe src="https://v2kwok.github.io/v2kwok-web/Intro_Leaflet.html" height="640" width="640"></iframe>
