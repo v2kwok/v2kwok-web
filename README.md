@@ -4,7 +4,7 @@
 View the full screen map [here](https://v2kwok.github.io/v2kwok-web/filtering_ubc_parking.html)!
 
 Click on the buttons to find out which permits enable you to park in UBC parking areas:
-<iframe src="https://v2kwok.github.io/v2kwok-web/filtering_ubc_parking.html" height="900" width="700"></iframe>
+<iframe src="https://v2kwok.github.io/v2kwok-web/filtering_ubc_parking.html" height="700" width="800"></iframe>
 
 ### Leaflet-ing UBC
 View the full screen map [here](https://v2kwok.github.io/v2kwok-web/ubc_parking.html)!
