@@ -1,9 +1,9 @@
 ## Welcome to Github Pages
 
 ### Introduction to immersive & 3D via A-Frame
-View [here](https://veiled-abrupt-wandflower.glitch.me/#)
+View [here](https://veiled-abrupt-wandflower.glitch.me/3D-aframe.html)
 
-<iframe src="https://veiled-abrupt-wandflower.glitch.me/#" height="700" width="800"></iframe>
+<iframe src="https://veiled-abrupt-wandflower.glitch.me/3D-aframe.html" height="700" width="800"></iframe>
 pink cylinder = BC Place
 red sphere = Science World
 blue box = YVR
