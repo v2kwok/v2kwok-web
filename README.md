@@ -4,10 +4,19 @@
 View [here](https://veiled-abrupt-wandflower.glitch.me/3D-aframe.html)
 
 <iframe src="https://veiled-abrupt-wandflower.glitch.me/3D-aframe.html" height="700" width="800"></iframe>
+
+Click on an object to make them all disappear.
+
+Objects:
 pink cylinder = BC Place
+
 red sphere = Science World
+
 blue box = YVR
+
 plane = random plane!
+
+Click on an object to make them all disappear.
 
 ### Filtering Leaflets
 View the full screen map [here](https://v2kwok.github.io/v2kwok-web/filtering_ubc_parking.html)!
