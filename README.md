@@ -8,13 +8,14 @@ View [here](https://veiled-abrupt-wandflower.glitch.me/3D-aframe.html)
 Explore using WASD to find all the objects. Click on an object to make them all disappear!
 
 Objects:
-pink cylinder = BC Place
 
-red sphere = Science World
+* pink cylinder = BC Place
 
-blue box = YVR
+* red sphere = Science World
 
-plane = random plane!
+* blue box = YVR
+
+* plane = random plane!
 
 
 ### Filtering Leaflets
