@@ -1,7 +1,7 @@
 ## Welcome to Github Pages
 
 ### Introduction to immersive & 3D via A-Frame
-View [here](https://veiled-abrupt-wandflower.glitch.me/3D-aframe.html)
+View in full screen [here](https://veiled-abrupt-wandflower.glitch.me/3D-aframe.html)
 
 <iframe src="https://veiled-abrupt-wandflower.glitch.me/3D-aframe.html" height="700" width="800"></iframe>
 
