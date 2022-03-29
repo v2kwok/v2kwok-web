@@ -1,5 +1,12 @@
 ## Welcome to Github Pages
 
+### Simple bridges between 2D GIS & 3D visualization
+View in full screen [here](https://v2kwok.github.io/GEOS472_3D/ubc-3d.html)
+
+<iframe src="https://v2kwok.github.io/GEOS472_3D/ubc-3d.html" height="700" width="800"></iframe>
+
+View all the files [here](https://github.com/v2kwok/GEOS472_3D)
+
 ### Introduction to immersive & 3D via A-Frame
 View in full screen [here](https://veiled-abrupt-wandflower.glitch.me/3D-aframe.html)
 
